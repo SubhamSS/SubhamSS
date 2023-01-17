@@ -5,6 +5,12 @@
 
 
 ### You can reach me at
-<a href="https://www.linkedin.com/in/subhamswastik98/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="swastik.subham98@gmail.com"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<span align="left">
+  <a href="https://www.linkedin.com/in/subhamswastik98/">
+    <img src="https://img.shields.io/badge/-Subham_Swastik_Samal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhamswastik98/" />
+  </a>
+  <a href="mailto:swastik.subham98@gmail.com">
+    <img src="https://img.shields.io/badge/-swastik.subham98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swastik.subham98@gmail.com" />
+
+</span>
 
