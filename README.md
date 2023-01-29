@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>I am Subham, an aspiring roboticist   <img src=https://cdn.pixabay.com/photo/2014/04/03/11/55/robot-312566_960_720.png width="30"></br>
-<p>I am a Masters student at Virginia Tech. I love building robots and am currently a graduate researcher at the Vibrations and Robotics Lab @ Virginia Tech. I am interested in Controls, Planning and Software development for robotics. 
+<p>I am a Masters student at Virginia Tech. I love building robots and am currently a Graduate Research Assistant at the Vibrations and Robotics Lab @ Virginia Tech. I am interested in Controls, Planning and Software development for robotics. 
 
 
 ### You can reach me at
