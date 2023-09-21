@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/SubhamSS/SubhamSS/blob/main/robo.gif" alt="Robot GIF" width="320" height="200">
+<img align="right" src="https://github.com/SubhamSS/SubhamSS/blob/main/robo.gif" alt="Robot GIF" width="420" height="330">
 
 ### Hi there, I am Subham 👋
 [![Linkedin Badge](https://img.shields.io/badge/-subhamswastik98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhamswastik98/)](https:https://www.linkedin.com/in/subhamswastik98/)
